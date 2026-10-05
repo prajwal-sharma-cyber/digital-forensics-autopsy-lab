@@ -1,0 +1,4 @@
+evidence_id,type,hash_status,examiner,status
+E001,Fictional disk image,Verified,Analyst,Reviewed
+E002,Fictional browser artefact,Verified,Analyst,Reviewed
+E003,Fictional exported timeline,Verified,Analyst,Reviewed
